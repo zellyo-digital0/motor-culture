@@ -1,0 +1,245 @@
+@media(max-width:1024px) {
+    h1 {
+        font-size: 42px;
+    }
+
+    h2 {
+        font-size: 24px;
+    }
+
+    .cp-60 {
+        padding: 30px 15px;
+    }
+
+    .cm-70 {
+        margin: 30px 0px;
+    }
+
+    .hero_content{
+        text-align: left;
+        padding: 20px;
+    }
+
+    .cnt li {
+        font-size: calc(1.125rem * var(--smaller));
+        padding: 7px;
+    }
+
+    .btn_package{
+        text-align: center;
+    }
+
+    .entry_card{
+        margin-bottom: 30px;
+    }
+
+    .call ul {
+        flex-direction: column;
+        justify-content: center;
+        margin-top: 30px;
+    }
+
+    .call ul li img{
+        margin-bottom: 20px;
+    }
+
+    .call ul li h5 {
+        margin-top: 10px;
+        text-align: center;
+    }
+
+    .toknow{
+        margin-top: 30px;
+    }
+
+    .toknow h2{
+        text-align: center;
+    }
+
+    .info{
+        text-align: center;
+    }
+
+    .gift_card {
+        float: right;
+        overflow: hidden;
+        text-align: center;
+    }
+   
+
+    #counter {
+        /* flex-direction: column; */
+        /* width: auto; */
+    }
+
+    #counter .item {
+        width: 100%;
+        padding: 20px;
+    }
+
+    .package h2{
+        text-align: center;
+    }
+    
+
+    .pkg {
+        margin: 0;
+        margin-bottom: 40px;
+    }
+
+    .vip p {
+        font-size: 14px;
+        color: var(--cs-fadetxt);
+    }
+
+    .ft_image {
+        display: flex;
+        flex-wrap: wrap;
+        /* flex-direction: column; */
+    }
+    .ft_image .col img{
+        height: auto;
+    }
+
+    .mission p{
+        margin-bottom: 30px;
+    }
+
+    .footer {
+        /* text-align: center; */
+    }
+
+    .terms ul {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .terms {
+        margin: 30px 0px;
+    }
+
+    .terms ul li {
+        margin-right: 0;
+    }
+
+}
+
+@media(max-width:767px) {
+    h1 {
+        font-size: 42px;
+    }
+
+    h2 {
+        font-size: 24px;
+    }
+
+    .cp-60 {
+        padding: 30px 15px;
+    }
+
+    .cm-70 {
+        margin: 30px 0px;
+    }
+
+    .hero_content{
+        text-align: center;
+    }
+
+    .btn_package{
+        text-align: center;
+    }
+
+    .entry_card{
+        margin-bottom: 30px;
+    }
+
+    .call ul {
+        flex-direction: column;
+        justify-content: center;
+        margin-top: 30px;
+    }
+
+    .call ul li img{
+        margin-bottom: 20px;
+    }
+
+    .call ul li h5 {
+        margin-top: 10px;
+        text-align: center;
+    }
+
+    .toknow{
+        margin-top: 30px;
+    }
+
+    .toknow h2{
+        text-align: center;
+    }
+
+    .info{
+        text-align: center;
+    }
+
+    .gift_card {
+        float: none;
+        overflow: hidden;
+        text-align: center;
+    }
+   
+
+    #counter {
+        flex-direction: column;
+        width: auto;
+    }
+
+    #counter .item {
+        width: 100%;
+        padding: 20px;
+    }
+
+    .package h2{
+        text-align: center;
+    }
+    
+
+    .pkg {
+        margin: 0;
+        margin-bottom: 40px;
+    }
+
+    .vip p {
+        font-size: 14px;
+        color: var(--cs-fadetxt);
+    }
+
+    .ft_image {
+        display: flex;
+        flex-wrap: wrap;
+        /* flex-direction: column; */
+    }
+    .ft_image .col img{
+        height: auto;
+    }
+
+    .mission p{
+        margin-bottom: 30px;
+    }
+
+    .footer {
+        text-align: center;
+    }
+
+    .terms ul {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .terms {
+        margin: 30px 0px;
+    }
+
+    .terms ul li {
+        margin-right: 0;
+    }
+
+}
